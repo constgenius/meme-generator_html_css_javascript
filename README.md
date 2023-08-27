@@ -2,7 +2,7 @@
 
 Create hilarious memes on-the-fly with this simple web-based meme generator! This project utilizes HTML, CSS, and JavaScript to allow users to generate random memes on a button click.
 
-Live Preview: [https://portfolio-website-theta-wine.vercel.app/](https://constgenius.github.io/meme-generator_html_css_javascript/) 
+Live Preview: [https://constgenius.github.io/meme-generator_html_css_javascript/](https://constgenius.github.io/meme-generator_html_css_javascript/) 
 
 ![Meme Generator Preview](images/Modern_Meme_Generator_in_html_css_javascript.png)
 
